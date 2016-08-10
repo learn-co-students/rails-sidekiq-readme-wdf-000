@@ -14,7 +14,7 @@ leads, but they want to be able to get right back to contacting
 customers and not have to wait for the uploading and processing to
 complete.
 
-## Workers
+## Workers       
 
 In Rails, we talk about *workers* as processes that will allow us to
 execute tasks outside of the main web application thread.
